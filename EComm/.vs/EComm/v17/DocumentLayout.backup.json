@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namaaror\\Visual Studio\\EComm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\entities\\ecommcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:entities\\ecommcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|c:\\users\\namaaror\\visual studio\\ecomm\\views\\order\\where.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\order\\where.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\views\\order\\byproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\order\\byproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|C:\\Users\\namaaror\\Visual Studio\\EComm\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A69051C-61EE-401F-A51A-A4BE8ACDEA97}|EComm.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{02c9407d-69f0-4910-b5c7-0dff86947e95}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Where.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\Where.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Where.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\Where.cshtml",
+              "RelativeToolTip": "Views\\Order\\Where.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T12:13:06.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ByProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\ByProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\ByProducts.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\ByProducts.cshtml",
+              "RelativeToolTip": "Views\\Order\\ByProducts.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T12:09:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T11:48:56.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T11:45:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Order\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Order\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T11:42:03.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T10:11:33.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T10:10:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T10:09:06.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T10:08:13.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:34:09.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:05:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:03:17.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:04:52.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:53:36.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:03:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECommContext.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Entities\\ECommContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ECommContext.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Entities\\ECommContext.cs",
+              "RelativeToolTip": "Entities\\ECommContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:51:43.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:50:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\EComm\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:49:18.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

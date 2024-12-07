@@ -1,0 +1,21 @@
+﻿@model HandsOnMvcClass.Entities.Order
+@{
+    ViewBag.Title = "Where";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    @using (Html.BeginForm("ByProducts", "Order", "Post"))
+    {
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.ProductId) :
+            </dt>
+
+            <dd>
+                @Html.EditorFor(model => model.ProductId)
+            </dd>
+        </dl>
+        <p><input type="submit" value="Search" class="btn btn-dark" /></p>
+    }
+</div>

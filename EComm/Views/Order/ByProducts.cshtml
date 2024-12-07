@@ -1,0 +1,47 @@
+﻿@model IEnumerable<HandsOnMvcClass.Entities.Order>
+
+@{
+    ViewBag.Title = "ByProducts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ByProducts</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create") | @Html.ActionLink("Back to Index","Index")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductId)
+        </td>
+    </tr>
+}
+
+</table>
