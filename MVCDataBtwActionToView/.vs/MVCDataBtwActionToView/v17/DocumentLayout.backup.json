@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|c:\\users\\namaaror\\visual studio\\mvcdatabtwactiontoview\\controllers\\demo2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|solutionrelative:controllers\\demo2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|c:\\users\\namaaror\\visual studio\\mvcdatabtwactiontoview\\views\\demo2t\\view2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|solutionrelative:views\\demo2t\\view2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|c:\\users\\namaaror\\visual studio\\mvcdatabtwactiontoview\\views\\demo1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|solutionrelative:views\\demo1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|c:\\users\\namaaror\\visual studio\\mvcdatabtwactiontoview\\views\\demo1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|solutionrelative:views\\demo1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|c:\\users\\namaaror\\visual studio\\mvcdatabtwactiontoview\\controllers\\demo1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|solutionrelative:controllers\\demo1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|c:\\users\\namaaror\\visual studio\\mvcdatabtwactiontoview\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|c:\\users\\namaaror\\visual studio\\mvcdatabtwactiontoview\\views\\demo\\flowers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|solutionrelative:views\\demo\\flowers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|c:\\users\\namaaror\\visual studio\\mvcdatabtwactiontoview\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67ED9E3B-07B5-43BE-A8CF-7E519C0C6093}|MVCDataBtwActionToView.csproj|solutionrelative:views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{02c9407d-69f0-4910-b5c7-0dff86947e95}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo1\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo1\\Details.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo1\\Details.cshtml",
+              "RelativeToolTip": "Views\\Demo1\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T07:20:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View2.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo2t\\View2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo2t\\View2.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo2t\\View2.cshtml",
+              "RelativeToolTip": "Views\\Demo2t\\View2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T07:16:11.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Controllers\\Demo2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Demo2Controller.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Controllers\\Demo2Controller.cs",
+              "RelativeToolTip": "Controllers\\Demo2Controller.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:13:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo1\\Index.cshtml",
+              "RelativeToolTip": "Views\\Demo1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T07:03:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Controllers\\Demo1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Demo1Controller.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Controllers\\Demo1Controller.cs",
+              "RelativeToolTip": "Controllers\\Demo1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:00:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Flowers.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo\\Flowers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo\\Flowers.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo\\Flowers.cshtml",
+              "RelativeToolTip": "Views\\Demo\\Flowers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T06:35:43.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T06:12:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MVCDataBtwActionToView\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:10:51.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

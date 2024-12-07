@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Flowers</title>
+</head>
+<body>
+    <div>
+        @{
+            List<string> list = ViewData["flowers"] as List<string>;
+            foreach(var item in list)
+            {
+                <p>@item</p>
+            }
+        }
+        <hr />
+        <table border="2">
+            <tr>
+                <th>Flowers</th>
+                </tr>
+            @foreach(var item in ViewData["flowers"] as List<string>)
+            {
+                <tr>
+                    <td>@item</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

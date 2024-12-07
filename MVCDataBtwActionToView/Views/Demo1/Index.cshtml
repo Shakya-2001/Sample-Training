@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <p style="text-align: center; color: orange"> @ViewBag.msg</p>
+        <ol>
+            @{ foreach (var item in ViewBag.list)
+            {
+                    <li>@item</li>
+            }
+             }
+        </ol>
+    </div>
+</body>
+</html>
