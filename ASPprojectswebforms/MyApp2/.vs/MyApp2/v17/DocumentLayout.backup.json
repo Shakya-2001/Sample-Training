@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|c:\\users\\akum1267\\desktop\\aspprojects\\myapp2\\myapp2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|solutionrelative:myapp2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|c:\\users\\akum1267\\desktop\\aspprojects\\myapp2\\myapp2\\registeruser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|solutionrelative:myapp2\\registeruser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|c:\\users\\akum1267\\desktop\\aspprojects\\myapp2\\myapp2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|solutionrelative:myapp2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|c:\\users\\akum1267\\desktop\\aspprojects\\myapp2\\myapp2\\greeting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|solutionrelative:myapp2\\greeting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|c:\\users\\akum1267\\desktop\\aspprojects\\myapp2\\myapp2\\greeting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AC9FA1A-8FFE-4CC8-BE63-2EC4940FE4DD}|MyApp2\\MyApp2.csproj|solutionrelative:myapp2\\greeting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "MyApp2\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\Login.aspx.cs*",
+              "RelativeToolTip": "MyApp2\\Login.aspx.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:26:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterUser.aspx",
+              "DocumentMoniker": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\RegisterUser.aspx",
+              "RelativeDocumentMoniker": "MyApp2\\RegisterUser.aspx",
+              "ToolTip": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\RegisterUser.aspx",
+              "RelativeToolTip": "MyApp2\\RegisterUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-29T06:22:23.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\Login.aspx",
+              "RelativeDocumentMoniker": "MyApp2\\Login.aspx",
+              "ToolTip": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\Login.aspx*",
+              "RelativeToolTip": "MyApp2\\Login.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-29T06:16:34.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Greeting.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\Greeting.aspx.cs",
+              "RelativeDocumentMoniker": "MyApp2\\Greeting.aspx.cs",
+              "ToolTip": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\Greeting.aspx.cs",
+              "RelativeToolTip": "MyApp2\\Greeting.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:53:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Greeting.aspx",
+              "DocumentMoniker": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\Greeting.aspx",
+              "RelativeDocumentMoniker": "MyApp2\\Greeting.aspx",
+              "ToolTip": "C:\\Users\\AKUM1267\\Desktop\\ASPprojects\\MyApp2\\MyApp2\\Greeting.aspx",
+              "RelativeToolTip": "MyApp2\\Greeting.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-29T05:50:58.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
