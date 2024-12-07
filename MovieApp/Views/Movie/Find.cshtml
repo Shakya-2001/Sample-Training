@@ -1,0 +1,22 @@
+﻿@model MovieApp.Models.Movie
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Find</title>
+</head>
+<body>
+    <div>
+        <form action = "Search" method="POST">
+            <p>Enter Movie Name to find:</p>
+            <p><input type="text" name="Title" /></p>
+            <p><input type="submit" value = "Search" /></p>
+        </form>
+    </div>
+</body>
+</html>

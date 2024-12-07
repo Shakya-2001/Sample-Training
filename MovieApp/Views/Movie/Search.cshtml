@@ -1,0 +1,34 @@
+﻿@model MovieApp.Models.Movie
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search</title>
+</head>
+<body>
+    <div>
+        @if (Model != null)
+        {
+            <pre>
+Movie Id: @Model.MovieId
+Title: @Model.Title
+Language: @Model.Lang
+Actor: @Model.Actor
+Director: @Model.Director
+Release Year: @Model.ReleaseYear
+@Html.ActionLink("Back","Index")
+</pre>
+        }
+        else
+        {
+            <p>Title Not Found!!</p>
+            @Html.ActionLink("Back", "Index")
+        }
+    </div>
+</body>
+</html>

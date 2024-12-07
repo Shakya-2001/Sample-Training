@@ -1,0 +1,49 @@
+﻿@model MovieApp.Models.Movie
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <div> 
+        <form action="Add" method="post"> @*Html.BeginForm("Action Name","Controller Name", "Post")*@
+        <table>
+            <tr>
+                <td>Movie ID:</td>
+                <td>@Html.TextBox("MovieId")</td>
+            </tr>
+            <tr>
+                <td>Movie Name:</td>
+                <td>@Html.TextBox("Title")</td>
+            </tr>
+            <tr>
+                <td>Language:</td>
+                <td>@Html.TextBox("Lang")</td>
+            <tr>
+                <td>Actor:</td>
+                <td>@Html.TextBox("Actor")</td>
+            </tr>
+            <tr>
+                <td>Director:</td>
+                <td>@Html.TextBox("Director")</td>
+            </tr>
+            <tr>
+                <td>Release Year:</td>
+                <td>@Html.TextBox("ReleaseYear")</td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Add" />
+                </td>
+            </tr>
+        </table>
+        </form>
+    </div>
+</body>
+</html>

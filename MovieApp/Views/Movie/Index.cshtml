@@ -1,0 +1,41 @@
+﻿@model List<MovieApp.Models.Movie>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <table border="2">
+            <tr>
+                <th>ID</th>
+                <th>TITLE</th>
+                <th>LANGUAGE</th>
+                <th>ACTOR</th>
+                <th>DIRECTOR</th>
+                <th>RELEASE YEAR</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.MovieId</td>
+                    <td>@item.Title</td>
+                    <td>@item.Lang</td>
+                    <td>@item.Actor</td>
+                    <td>@item.Director</td>
+                    <td>@item.ReleaseYear</td>
+                </tr>
+            }
+        </table>
+        <p><a href="http://localhost:65499/Movie/Add"><button>Add</button></a></p>
+        <p><a href="http://localhost:65499/Movie/Find"><button>Search</button></a></p>
+        <p><a href="http://localhost:65499/Movie/Delete"><button>Remove</button></a></p>
+    </div>
+</body>
+</html>

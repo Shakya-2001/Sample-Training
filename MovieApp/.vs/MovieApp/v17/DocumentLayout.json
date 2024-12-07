@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|C:\\Users\\namaaror\\Visual Studio\\MovieApp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|C:\\Users\\namaaror\\Visual Studio\\MovieApp\\views\\movie\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|solutionrelative:views\\movie\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|C:\\Users\\namaaror\\Visual Studio\\MovieApp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|C:\\Users\\namaaror\\Visual Studio\\MovieApp\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|solutionrelative:views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|C:\\Users\\namaaror\\Visual Studio\\MovieApp\\views\\movie\\find.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|solutionrelative:views\\movie\\find.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|c:\\users\\namaaror\\visual studio\\movieapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|c:\\users\\namaaror\\visual studio\\movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|C:\\Users\\namaaror\\Visual Studio\\MovieApp\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AC2912-7FAD-4372-8E8F-05B2B398D15F}|MovieApp.csproj|solutionrelative:views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{02c9407d-69f0-4910-b5c7-0dff86947e95}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:35:42.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:31:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Add.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Add.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Add.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T11:34:58.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Find.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Find.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Find.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Find.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Find.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:10:03.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Search.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Search.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Search.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:01:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:17:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T11:23:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\namaaror\\Visual Studio\\MovieApp\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:38:00.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

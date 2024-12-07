@@ -1,0 +1,23 @@
+﻿@model MovieApp.Models.Movie
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <div>
+        <h2>Remove a Movie!</h2>
+        <form action="Delete" method="POST">
+            <p>Enter Movie Id to Delete:</p>
+            <p><input type="number" name="id" /></p>
+            <p><input type="submit" value="Remove" /></p>
+        </form>
+    </div>
+</body>
+</html>
